@@ -1,0 +1,7 @@
+scala读文件用：
+:lo assignment2.scala
+
+不要用
+load assignment2.scala
+
+load这个命令没有用
